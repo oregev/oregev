@@ -3,14 +3,15 @@
 ## Im a Frontend developer. 
 loacted in israel.
 
-on my toolbox:
-**HTML**, **WordPress**, **CSS**, **Sass**, **Bootstrap**, **JavaScript**, **React**, **Redux**, **Git**, **Github**, **VScode**, **Figma**, **Web development**, **Frontend**.
+Envierments and Tools:
+**HTML5**, **CSS3**, **Sass**, **Bootstrap5**, **JS-ES6**, **React**, **Redux**, **JSON**, **Git**, **Github**, **Visual Studio Code**, **Figma**, **Wordpress**, **Web development**, **Frontend**, **Neumorphism and Material design**, **C**, **Java**, **OOP**.
+
  
 Check out my **protfolio** on **Github Pages**: 
 _https://oregev.github.io/protfolio/_
 
-You can see some of my work on **codepen**.
+Other work on **codepen**.
 _https://codepen.io/orwebdev_
 
-For any question on one of the repositories:
+For any question:
 Email me @: _orrwebdev@gmail.com_
