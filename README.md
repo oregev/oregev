@@ -11,8 +11,7 @@ Envierments and Tools:
 Check out my **protfolio** on **Github Pages**: 
 _https://oregev.github.io/protfolio/_
 
-Other work on **codepen**.
+Other work on: **codepen**
 _https://codepen.io/orwebdev_
 
-For any question:
-Email me @: _orrwebdev@gmail.com_
+For any question, email me @: _orrwebdev@gmail.com_
