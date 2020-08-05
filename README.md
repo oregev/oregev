@@ -1,6 +1,6 @@
 # Welcome 👋
  
-## Im a Frontend developer. 
+## Im Or Regev - Frontend developer. 
 located in israel.
 
 
