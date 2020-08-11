@@ -3,11 +3,9 @@
 ## Im Or Regev - Frontend developer. 
 located in israel.
 
-
 Envierments and Tools:
 **HTML5**, **CSS3**, **Sass**, **Bootstrap5**, **JS-ES6**, **React**, **Redux**, **JSON**, **Git**, **Github**, **Visual Studio Code**, **Figma**, **Wordpress**, **Web development**, **Frontend**, **Neumorphism and Material design**, **C**, **Java**, **OOP**.
 
- 
 Check out my **protfolio** on **Github Pages**: 
 _https://oregev.github.io/protfolio/_
 
