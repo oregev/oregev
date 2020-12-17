@@ -1,9 +1,8 @@
 # Welcome 👋
  
 ## Im Or Regev - Frontend developer. 
-- An aspiring and proactive junior web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technology.
-
-- studying frontend web development and implementing small websites and web applications with **HTML**, **CSS**, and **React.js**. My core activities included:
+An aspiring and proactive junior web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technology.
+studying frontend web development and implementing small websites and web applications with **HTML**, **CSS**, and **React.js**. My core activities include:
  * Building websites and apps that are responsive and usable.
  * Implementing web design and development principles (Clean Code) to build stable software.
  * Monitoring website performance and utilizing the Browser dev tools.
