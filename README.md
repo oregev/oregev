@@ -6,8 +6,8 @@ An aspiring and proactive junior web developer with passion to the tech and proc
 Envierments and Tools:
 **HTML5**, **CSS3**, **Sass**, **Bootstrap5**, **JS-ES6**, **React**, **Redux**, **JSON**, **Git**, **Github**, **Visual Studio Code**, **Figma**, **Wordpress**, **Web development**, **Frontend**, **Neumorphism design**, **C**, **Java**, **OOP**.
 
-Check out my **protfolio** on **Github Pages**: 
-_https://oregev.github.io/protfolio/_
+Check out my **portfolio** on **Github Pages**: 
+_https://oregev.github.io/portfolio/_
 
 Other work on: **codepen**
 _https://codepen.io/orwebdev_
