@@ -8,7 +8,7 @@ Implementing small websites and web applications with **HTML**, **CSS**, and **R
  * Monitoring website performance and utilizing the Browser dev tools.
  * Maintaining an organized workflow using a project management tool (like **Git** and **Figma**).
  * Implemented a personal portfolio website with **React** and **React-Router-Dom** and deployed it to **Github-Pages**.
- * In my toolbelt: **HTML**, **CSS**, **JS-ESall**, **React.js**, **Node.js**, **Express.js**, **Redux (+thunk)**, **Wordpress Elementor** and Design methods as **Neomorphisem** and **Material design**.
+ * In my toolbelt: **HTML**, **CSS**, **Bootstrap**, **JS-ESall**, **React.js**, **Node.js**, **Express.js**, **Redux (+thunk)**, **Wordpress Elementor** and Design methods as **Neomorphisem** and **Material design**.
 
 
 Check out my **portfolio** on **Github Pages**: 
