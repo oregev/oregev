@@ -1,4 +1,4 @@
-# Welcome 👋 Im Or Regev - Web developer.      <img src="https://www.codewars.com/users/orwebdev/badges/micro"/>
+# Welcome \t 👋 \t Im Or Regev - Web developer.      
  
 An aspiring and proactive web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technology.  
 Implementing small websites and web applications with **HTML**, **CSS**, and **React.js**. My core activities include:
@@ -38,3 +38,7 @@ For any question, email me @: _orrwebdev@gmail.com_
 
 - [Console for intermidate javascript developers](https://www.linkedin.com/pulse/%D7%A7%D7%95%D7%A0%D7%A1%D7%95%D7%9C%D7%AA-javascript-%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%99%D7%9D-or-regev/)
 - [The javascript Spread and Rest operator ( ... )](https://wesbos.com/react-context/)
+
+
+### 🏅 Ranks
+<img src="https://www.codewars.com/users/orwebdev/badges/micro"/>
