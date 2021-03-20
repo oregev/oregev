@@ -1,4 +1,4 @@
-# Welcome 👋 Im Or Regev - Web developer. <img src="https://www.codewars.com/users/orwebdev/badges/micro"/>
+# Welcome 👋 Im Or Regev - Web developer.      <img src="https://www.codewars.com/users/orwebdev/badges/micro"/>
  
 An aspiring and proactive web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technology.  
 Implementing small websites and web applications with **HTML**, **CSS**, and **React.js**. My core activities include:
