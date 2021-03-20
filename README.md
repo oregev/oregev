@@ -1,5 +1,6 @@
-# Welcome \t 👋 \t Im Or Regev - Web developer.      
- 
+# Welcome 👋      
+## Im Or Regev - Web developer.
+
 An aspiring and proactive web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technology.  
 Implementing small websites and web applications with **HTML**, **CSS**, and **React.js**. My core activities include:
  * Building websites and apps that are responsive and usable.
