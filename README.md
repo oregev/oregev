@@ -1,15 +1,19 @@
 # Welcome 👋      
 ### Im Or Regev - Web developer.
 
-An aspiring and proactive web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technology.  
-Implementing small websites and web applications with **HTML**, **CSS**, and **React.js**. My core activities include:
- * Building websites and applicatios that are responsive and usable.
- * Implementing web design and development principles (such as Clean Code) to build stable software.
- * Monitoring website performance and utilizing the **Browser developer tools**.
- * Maintaining an organized workflow using a project management tools (like **Git**, **Github** and **Figma**).
- * Implemented a personal portfolio website with **React** and **React-Router-Dom** and deployed it to **Github-Pages**.
- * In my toolbelt: **HTML**, **CSS**, **Bootstrap**, **JS-ESall**, **React.js**, **Node.js**, **Express.js**, **Redux (+thunk)**, **Wordpress Elementor** and Design methods as **Neomorphisem** and **Material design**.
+An aspiring and proactive web developer with passion to the tech and process of creating web applications. Looking forward to innovate and work on great user experience. Hands on approach for learning new Technologies.  
+currently implementing small websites and web applications with the **MERN** stack. 
 
+My core activities include:
+ * Building websites and web applicatios that are responsive, usable and secure.
+ * Implementing web applications with **React**, **React-Router-Dom**, **Redux** and **Redux-Saga**.
+ * Implementing web design and development principles (such as Clean Code) to build stable software.
+ * Monitoring website performance and utilizing the **Browser developer tools** and **VScode** editor.
+ * Maintaining an organized workflow using a project management tools (like **Git**, **Github** and **Figma**).
+ * Implementing web servers with **Node** and **Express**.
+ * Creating databases with **MongoDB** and connet to them using **MongoDB-Atlas** and **mongoos**.
+ * Deploying application and servers to **Heruko** and **Netlify**.
+ 
 
 Check out my **portfolio** on **Github Pages**: 
 _https://oregev.github.io/portfolio/_
