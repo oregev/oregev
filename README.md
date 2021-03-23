@@ -24,6 +24,7 @@ _https://codepen.io/orwebdev_
 For any question, email me @: _orrwebdev@gmail.com_
 
 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -39,10 +40,12 @@ For any question, email me @: _orrwebdev@gmail.com_
 <br/>
 <br/>
 
+
 ### 📕 Latest Blog Posts (in hebrow)
 
 - [Console for intermidate javascript developers](https://www.linkedin.com/pulse/%D7%A7%D7%95%D7%A0%D7%A1%D7%95%D7%9C%D7%AA-javascript-%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%99%D7%9D-or-regev/)
 - [The javascript Spread and Rest operator ( ... )](https://wesbos.com/react-context/)
+
 
 
 ### 🏅 Ranks
